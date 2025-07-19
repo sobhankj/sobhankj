@@ -1,7 +1,5 @@
 ## Hi👋, I'm Sobhan!
 
-# Welcome to My GitHub Profile! 
-
 ## About Me
 - Computer Engineering Student at the University of Tehran
 - FrontEnd Developer at Aidasales
