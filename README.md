@@ -1,5 +1,15 @@
 ## Hi👋, I'm Sobhan!
 
+# Welcome to My GitHub Profile! 
+
+## About Me
+- Computer Engineering Student at the University of Tehran
+- FrontEnd Developer at Aidasales
+- Research Assistant focusing on GBL(Game Based Learning)
+
+## Skills
+- **Programming Languages**: HTML5, CSS3, Python, ReactJS, C++, C, JavaScript, Java, C#, Verilog.
+
 - 📫 How to reach me: sobhankj.tehran@gmail.com
 
 ## 🌐 Socials:
