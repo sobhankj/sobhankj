@@ -20,24 +20,14 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sobhankj&theme=tokyonight&hide_border=false)<br/>
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=sobhankj&theme=tokyonight" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sobhankj&layout=compact&show_icons=true&theme=tokyonight" alt="sobhankj github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhankj&layout=compact&theme=tokyonight" alt="sobhankj github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sobhankj&theme=merko" alt="sobhankj github readme activity graph" width="60%" />
+</div>
 
-[![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sobhankj&show_icons=true&theme=tokyonight)](https://github.com/sobhankj/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobhankj&theme=tokyonight&hide_border=false&layout=compact)](https://github.com/sobhankj/github-readme-stats)
-
-<!--
-**sobhankj/sobhankj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
