@@ -2,7 +2,7 @@
 
 ## About Me
 - Computer Engineering Student at the University of Tehran
-- FrontEnd Developer at Aidasales
+- <a href="https://aidasales.ir">FrontEnd Developer at Aidasales<a>
 - Research Assistant focusing on GBL(Game Based Learning)
 
 ## Skills
