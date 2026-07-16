@@ -237,7 +237,7 @@
 
 <br/>
 
-<details>
+<details open>
   <summary><b>Frontend</b></summary>
   <br/>
   <div align="center">
@@ -245,7 +245,7 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary><b>Languages</b></summary>
   <br/>
   <div align="center">
@@ -253,7 +253,7 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary><b>Design &amp; Motion</b></summary>
   <br/>
   <div align="center">
@@ -262,7 +262,7 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary><b>Platform &amp; Tools</b></summary>
   <br/>
   <div align="center">
