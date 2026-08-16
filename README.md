@@ -2,23 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:6C63FF,100:00E5FF&height=320&section=header&text=Sobhan%20Kooshki%20Jahromi&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Frontend%20Engineer%20%C2%B7%20Head%20of%20Frontend%20%C2%B7%20Computer%20Engineering&descAlignY=62&descSize=15&descColor=A5B4FC" width="100%" alt="Sobhan Kooshki Jahromi"/>
 </div>
 
-<br/>
-
 <div align="center">
-
-  <h1>Sobhan Kooshki Jahromi</h1>
-
-  <p>
-    <b>Head of Frontend</b> at <a href="https://aidasales.ir"><b>Aidasales</b></a>
-    &nbsp;·&nbsp;
-    Computer Engineering at <b>University of Tehran</b>
-  </p>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=Frontend+Engineer;Head+of+Frontend+%40+Aidasales;Computer+Engineering+Student;Building+interfaces+people+feel" alt="typing"/>
   </a>
 
-  <br/><br/>
+  <br/>
 
   <a href="https://sobhankj.ir">
     <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Explore%20My%20Games-00E5FF?style=for-the-badge&labelColor=0D1117&color=00E5FF" alt="Explore My Games"/>
@@ -328,13 +318,6 @@ while (alive) {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sobhankj&bg_color=0D1117&color=00E5FF&line=6C63FF&point=A855F7&area=true&area_color=6C63FF&hide_border=true" width="100%" alt="activity graph"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>Highlights</h3>
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=sobhankj&theme=onedark&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub trophies"/>
 </div>
 
 <br/>
